@@ -1,16 +1,50 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Caio Braz  
 
-<!--
-**caiobraz-cmd/caiobraz-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na [UNINGÁ](https://www.uninga.br/)  
+💻 Apaixonado por **tecnologia, programação e desenvolvimento de software**  
+🚀 Em busca de evoluir minhas habilidades e construir projetos práticos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Atualmente estou aprendendo:
+- Lógica de Programação e Algoritmos  
+- Python e Java  
+- Git e GitHub  
+- Fundamentos de Banco de Dados  
+- Desenvolvimento Web (HTML, CSS e JavaScript)
+- Flutter
+
+---
+
+### 🛠️ Tecnologias e Ferramentas:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 💬 Sobre mim:
+Sou curioso e gosto de entender como as coisas funcionam por trás do código.  
+Busco sempre **aprender algo novo todos os dias** e aplicar o que aprendo em **projetos reais**.  
+Nos meus estudos, foco em **melhorar a lógica, escrever código limpo e aprender boas práticas de desenvolvimento**.
+
+---
+
+### 📫 Como me encontrar:
+📧 E-mail: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
+💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+🐙 GitHub: [github.com/caiobraz-cmd](https://github.com/caiobraz-cmd)
+
+---
+
+### ⚡ Curiosidades:
+- Gosto de resolver desafios de lógica 🧩  
+- Tenho interesse em desenvolvimento back-end e automação 🧠  
+- Estou construindo minha base para futuramente atuar como **desenvolvedor full stack** 🚀
+
+---
+
+⭐️ _"O sucesso é a soma de pequenos esforços repetidos dia após dia."_  
