@@ -9,16 +9,19 @@
 ### 🌱 Atualmente estou aprendendo:
 - Lógica de Programação e Algoritmos  
 - Python e Java  
+- Flutter (Desenvolvimento Mobile)  
+- Power Platform (Power Apps, Power Automate e Power BI)  
 - Git e GitHub  
 - Fundamentos de Banco de Dados  
 - Desenvolvimento Web (HTML, CSS e JavaScript)
-- Flutter
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -42,7 +45,7 @@ Nos meus estudos, foco em **melhorar a lógica, escrever código limpo e aprende
 
 ### ⚡ Curiosidades:
 - Gosto de resolver desafios de lógica 🧩  
-- Tenho interesse em desenvolvimento back-end e automação 🧠  
+- Tenho interesse em desenvolvimento **mobile**, **back-end** e **automação com Power Platform** ⚙️  
 - Estou construindo minha base para futuramente atuar como **desenvolvedor full stack** 🚀
 
 ---
